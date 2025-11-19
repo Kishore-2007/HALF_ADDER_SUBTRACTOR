@@ -1,6 +1,6 @@
 ### Name : Kishore.S
 ### Register Number : 212224230130
-### Experiment : HALF_ADDER_SUBTRACTOR
+### Experiment 3 : HALF_ADDER_SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
